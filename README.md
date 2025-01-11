@@ -1,5 +1,5 @@
 # EmotionDetection-SongRecommendation
-Here is a youtube video of us demonstrating our project : ![Presentation](https://youtu.be/-KRTwLfZEj8?si=PN_GSGZZBNgf2sta)
+Here is a youtube video of us demonstrating our project : [Presentation](https://youtu.be/-KRTwLfZEj8?si=PN_GSGZZBNgf2sta)
 ## Datasets
 
 The datasets used as part of this project are -
